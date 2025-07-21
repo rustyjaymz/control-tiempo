@@ -1,0 +1,333 @@
+/* Animaciones personalizadas */
+.animate__fadeInUp {
+    animation-duration: 0.5s;
+}
+
+/* Estilos para las tarjetas */
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+/* Estilos para los botones */
+.btn {
+    transition: transform 0.2s ease-in-out;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
+/* Estilos para el panel de administración */
+.card {
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.btn-lg {
+    padding: 1rem 2rem;
+    font-size: 1.25rem;
+}
+/* Animaciones personalizadas */
+.animate__fadeInUp {
+    animation-duration: 0.5s;
+}
+
+/* Estilos para las tarjetas */
+.card {
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+/* Estilos para los botones */
+.btn {
+    transition: transform 0.2s ease-in-out;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
+
+/* Estilos para la tabla */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.table-striped tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0.075);
+}
+/* Animaciones personalizadas */
+.animate__fadeInUp {
+    animation-duration: 0.5s;
+}
+
+/* Estilos para las tarjetas */
+.card {
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+/* Estilos para la lista de empleados */
+.list-group-item {
+    transition: background-color 0.2s ease-in-out;
+}
+
+.list-group-item:hover {
+    background-color: rgba(0, 0, 0, 0.075);
+}
+
+/* Estilos para la tabla */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.table-striped tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0.075);
+}
+/* Animaciones personalizadas */
+.animate__fadeInUp {
+    animation-duration: 0.5s;
+}
+
+/* Estilos para las tarjetas */
+.card {
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+/* Estilos para la lista de empleados */
+.list-group-item {
+    transition: background-color 0.2s ease-in-out;
+}
+
+.list-group-item:hover {
+    background-color: rgba(0, 0, 0, 0.075);
+}
+
+/* Estilos para la tabla */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.table-striped tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0.075);
+}
+/* Animaciones personalizadas */
+.animate__fadeInUp {
+    animation-duration: 0.5s;
+}
+
+/* Estilos para las tarjetas */
+.card {
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+/* Estilos para la lista de empleados */
+.list-group-item {
+    transition: background-color 0.2s ease-in-out;
+}
+
+.list-group-item:hover {
+    background-color: rgba(0, 0, 0, 0.075);
+}
+
+/* Estilos para la tabla */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.table-striped tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0.075);
+}
+
+/* Estilos para las pestañas */
+.nav-tabs .nav-link {
+    border: none;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.2s ease-in-out;
+}
+
+.nav-tabs .nav-link.active {
+    border-bottom: 2px solid #0d6efd;
+    color: #0d6efd;
+}
+
+.nav-tabs .nav-link:hover {
+    border-bottom: 2px solid #0d6efd;
+}
+/* Animaciones personalizadas */
+.animate__fadeInUp {
+    animation-duration: 0.5s;
+}
+
+/* Estilos para las tarjetas */
+.card {
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+/* Estilos para la tabla */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.table-striped tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0.075);
+}
+
+/* Estilos para las pestañas */
+.nav-tabs .nav-link {
+    border: none;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.2s ease-in-out;
+}
+
+.nav-tabs .nav-link.active {
+    border-bottom: 2px solid #0d6efd;
+    color: #0d6efd;
+}
+
+.nav-tabs .nav-link:hover {
+    border-bottom: 2px solid #0d6efd;
+}
+/* Animaciones personalizadas */
+.animate__fadeInUp {
+    animation-duration: 0.5s;
+}
+
+/* Estilos para las tarjetas */
+.card {
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+/* Estilos para la tabla */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.table-striped tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0.075);
+}
+
+/* Estilos para las pestañas */
+.nav-tabs .nav-link {
+    border: none;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.2s ease-in-out;
+}
+
+.nav-tabs .nav-link.active {
+    border-bottom: 2px solid #0d6efd;
+    color: #0d6efd;
+}
+
+.nav-tabs .nav-link:hover {
+    border-bottom: 2px solid #0d6efd;
+}
+/* Animaciones personalizadas */
+.animate__fadeInUp {
+    animation-duration: 0.5s;
+}
+
+/* Estilos para las tarjetas */
+.card {
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+/* Estilos para la tabla */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.table-striped tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0.075);
+}
+
+/* Estilos para las pestañas */
+.nav-tabs .nav-link {
+    border: none;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.2s ease-in-out;
+}
+
+.nav-tabs .nav-link.active {
+    border-bottom: 2px solid #0d6efd;
+    color: #0d6efd;
+}
+
+.nav-tabs .nav-link:hover {
+    border-bottom: 2px solid #0d6efd;
+}
+/* Estilos para los selectores de fecha */
+.row.g-3 {
+    margin-bottom: 1rem;
+}
+
+.row.g-3 .col-md-5 {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+.row.g-3 .col-md-2 {
+    display: flex;
+    align-items: flex-end;
+}
+/* Colores para nuevos botones */
+.btn-secondary { background-color: #6c757d; border-color: #6c757d; }
+.btn-dark { background-color: #212529; border-color: #212529; }
+.btn-success { background-color: #198754; border-color: #198754; }
+.btn-light { 
+    background-color: #DDECFA; 
+    border-color: #DDECFA; 
+    color: #212529; /* Texto oscuro para contraste */
+}
+
+/* Mejorar visibilidad de botones en móviles */
+@media (max-width: 768px) {
+    .btn {
+        padding: 0.5rem;
+        font-size: 0.9rem;
+    }
+}
